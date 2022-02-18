@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "author": "Byron",
+      "description": "Practice your Javascript!",
+      "like": true
+    },
+    {
+      "id": 2,
+      "author": "Rashaun",
+      "description": "Practice your Go!",
+      "like": true
+    },
+    {
+      "id": 3,
+      "author": "Matt",
+      "description": "Practice your Python!",
+      "like": true
+    },
+    {
+      "id": 4,
+      "author": "Yunchu",
+      "description": "Practice your Java!",
+      "like": true
+    },
+    {
+      "id": 5,
+      "author": "Hussein",
+      "description": "Practice your Elixir!",
+      "like": false
+    }
+  ]
+}
