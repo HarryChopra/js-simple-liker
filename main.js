@@ -28,7 +28,6 @@ async function apiPOST(url, method, data) {
         body: JSON.stringify(data)
     });
     const response = await fetchResponse.json();
-    // if (fetchResponse.ok) return response;
     if (fetchResponse.ok) return response;
     let err = new Error();
     throw {
